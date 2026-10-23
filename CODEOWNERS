@@ -1,0 +1,17 @@
+# This repo is a governance and operational framework.
+# Keep product and app code out of this repo.
+
+# Product ownership
+* @Zyniel
+
+# Product side
+/docs/** @Zyniel
+/governance/** @Zyniel
+/templates/** @Zyniel
+/Backlog.md @Zyniel
+/status.md @Zyniel
+
+# Tooling and automation
+/.claude/** @Zyniel
+/scripts/** @Zyniel
+/.github/** @Zyniel
